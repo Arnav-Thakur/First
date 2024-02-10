@@ -1,4 +1,4 @@
 # First
-My first repository
+My first repository not responding to my commands
 <br>
-Author-Arnav Thakur
+Author-Arnav Thakur()
